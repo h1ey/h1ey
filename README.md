@@ -1,4 +1,4 @@
-# Hi there, I'm h1ey 👋
+# Welcome aboard! I'm headsea 🌊
 
 > **Product Concept Creator** turning ideas into interactive, working prototypes using modern AI workflows.
 
